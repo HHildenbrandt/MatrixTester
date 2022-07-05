@@ -83,7 +83,7 @@ To read in .csv matrices
 As an example, try to sort the following matrix by `gender`:
 
 ```
-    m1	f1	m2	f2	f3	gender
+        m1	f1	m2	f2	f3	gender
 m1	0	6	9	8	5	m
 f1	0	0	4	6	0	f
 m2	0	2	0	4	7	m
